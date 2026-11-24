@@ -1,0 +1,7 @@
+{
+  "name": "creator-ai",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Remote MCP server for Canvas LMS grading (Cloudflare Worker)"
+}
